@@ -1,0 +1,3 @@
+Person{IDNum='00000001', title='Prince', firstName='Zeln', lastName='Garihim', YOB=1021}
+Person{IDNum='00000002', title='Mr.', firstName='Jensen', lastName='Garihim', YOB=1987}
+Person{IDNum='00000003', title='Ms.', firstName='Jasmine', lastName='Garihim', YOB=2999}
